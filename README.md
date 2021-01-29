@@ -4,7 +4,7 @@
 
 <p>Here you will find my personal public projects, so you can see my journey in the programming languages.</p>
 <p>- 🌱 I'm current learning Javascript and PHP</p>
-<p>- 📫 How to reach me **bruno621@outlook.com**</p>
+<p>- 📫 How to reach me bruno621@outlook.com</p>
 
 
 <h3>My most used programming languages 👨🏻‍💻</h3>
