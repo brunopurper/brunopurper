@@ -27,7 +27,7 @@
     <img height="50" src="windows.png">
    </p>
 
----
+##
 
 <h3>My most used programming languages 👨🏻‍💻</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunopurper&show_icons=true&locale=en&layout=compact" alt="brunostats" /></p> 
