@@ -6,7 +6,7 @@
 <p>- 🌱 I'm current learning Javascript and PHP</p>
 <p>- 📫 How to reach me bruno621@outlook.com</p>
 
----
+
 ## Skills :nerd_face:
 
 <p align="center">
