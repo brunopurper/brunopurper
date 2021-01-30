@@ -30,13 +30,13 @@
 ##
 
 <h3>My most used programming languages 👨🏻‍💻</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunopurper&show_icons=true&locale=en&layout=compact" alt="brunostats" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunopurper&theme=dark&show_icons=true&locale=en&layout=compact" alt="brunostats" /></p> 
 
 
 
 <h3>GitHub stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brunopurper&show_icons=true&locale=en" alt="ado.." /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brunopurper&theme=dark&show_icons=true&locale=en" alt="ado.." /></p>
 
 
 <h3>My contributions</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunopurper&" alt="ado" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunopurper&theme=dark" alt="ado" /></p>
