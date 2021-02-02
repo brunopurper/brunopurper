@@ -4,7 +4,7 @@
 
 <p>Here you will find my personal public projects, so you can see my journey in the programming languages.</p>
 <p>- 🌱 I'm current learning Javascript and PHP</p>
-<p>- 📫 How to reach me -> <a href="https://brunopurper.github.io/My-own-linktree/">click here!!</a></p>
+<p>- 📫 Talk to me -> <a href="https://brunopurper.github.io/My-own-linktree/">click here!!</a></p>
 
 
 ## Skills :nerd_face:
