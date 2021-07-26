@@ -3,7 +3,7 @@
 <h3 >I'm from Cachoeirinha, Brazil, I'm a Junior Developer on <a href="https://startaideia.com.br/">Startadeia</a> 🚀 </h3>
 
 <p>Here you will find my personal public projects, so you can see my journey in the programming languages.</p>
-<p>- 🌱 I'm current learning Javascript and PHP</p>
+<p>- 🌱 I'm current learning PHP and Laravel</p>
 <p>- 📫 Talk to me -> <a href="https://brunopurper.github.io/My-own-linktree/">click here!!</a></p>
 
 
