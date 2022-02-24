@@ -1,9 +1,8 @@
 <h1 align="center">
 <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="38" height="38" /> Hi, I'm Bruno Purper Farias </h1>
-<h3 >I'm from Cachoeirinha, Brazil, I'm a Junior Developer on <a href="https://startaideia.com.br/">Startadeia</a> 🚀 </h3>
+<h3 >I work on HP🚀 </h3>
 
 <p>Here you will find my personal public projects, so you can see my journey in the programming languages.</p>
-<p>- 🌱 I'm current learning PHP and Laravel</p>
 <p>- 📫 Talk to me -> <a href="https://brunopurper.github.io/My-own-linktree/">click here!!</a></p>
 
 
