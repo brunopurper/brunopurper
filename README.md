@@ -1,6 +1,6 @@
 <h1 align="center">
 😁👍 Hi, I'm Bruno Purper Farias </h1>
-<h3 >I'm currently looking for a job </h3>
+<h3 >QA on HP </h3>
 
 <p>Here you will find my personal public projects, so you can see my journey in the programming languages.</p>
 <p>- 📫 Talk to me -> <a href="https://brunopurper.github.io/My-own-linktree/">click here!!</a></p>
